@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/9131a46a-a2b9-4fea-a8d6-ece5590cf13b.svg)](https://wakatime.com/@9131a46a-a2b9-4fea-a8d6-ece5590cf13b)
 ![github stats](https://github-readme-stats.vercel.app/api?username=Joshuaharry120&show_icons=true&theme=synthwave)
+[![wakatime](https://wakatime.com/badge/user/9131a46a-a2b9-4fea-a8d6-ece5590cf13b.svg)](https://wakatime.com/@9131a46a-a2b9-4fea-a8d6-ece5590cf13b)
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Joshuaharry120"/>
-
 
 
 - 🔭 I’m currently working on https://zarpgaming.com
